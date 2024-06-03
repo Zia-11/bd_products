@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Cotton T-shirt Dress",
+        "price": 17.99,
+        "url": "https://www2.hm.com/en_us/productpage.0841434001.html",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/c1/ff/c1ff35c5ae63738c38b391d0afcd993e12bf28c3.jpg],origin[dam],category[ladies_dresses_shortdresses],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+    },
+    {
+        "name": "Top with Collar",
+        "price": 24.99,
+        "url": "https://www2.hm.com/en_us/productpage.1164061008.html",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/d7/93/d7935d669219ef17aad522b46cfad89e3dc76e8d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+    },
+    {
+        "name": "3-pack T-shirts",
+        "price": 24.99,
+        "url": "https://www2.hm.com/en_us/productpage.1166415005.html",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/f9/5e/f95e9403bfeca81f4f5bdaee01d798fc4637dfb3.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+    },
+    {
+        "name": "V-neck Dress",
+        "price": 39.99,
+        "url": "https://www2.hm.com/en_us/productpage.1225349003.html",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/b8/66/b8664bfb8611ebd3a54aac8a71b91952342bb22d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+    },
+    {
+        "name": "Tie-belt Shirt Dress",
+        "price": 29.99,
+        "url": "https://www2.hm.com/en_us/productpage.1233620001.html",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/7b/63/7b633b230f7ddd48700a545b5607eff26893a5ba.jpg],origin[dam],category[ladies_dresses_mididresses],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+    },
+    {
+        "name": "Cotton T-shirt",
+        "price": 7.99,
+        "url": "https://www2.hm.com/en_us/productpage.0963662002.html",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/b3/d0/b3d045a44b5cb2dedc2a1fb3bc6960e932b83f09.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[3]&call=url[file:/product/style]"
+    },
+    {
+        "name": "Cotton T-shirt",
+        "price": 7.99,
+        "url": "https://www2.hm.com/en_us/productpage.0963662001.html",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/06/54/06545ac0f4883fd932ccb9d2a8178201919742d3.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+    },
+    {
+        "name": "Slacks",
+        "price": 19.99,
+        "url": "https://www2.hm.com/en_us/productpage.0751471001.html",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/14/19/141961c59bc644f446a992018fb010550b005fa1.jpg],origin[dam],category[ladies_trousers_chinosslacks],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+    },
+    {
+        "name": "Sweatshorts",
+        "price": 9.99,
+        "url": "https://www2.hm.com/en_us/productpage.1201719005.html",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/8d/84/8d844e3dc5a308670de37923f2ad1a04c7a45e3c.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+    },
+    {
+        "name": "Linen-blend Pull-on Pants",
+        "price": 19.99,
+        "url": "https://www2.hm.com/en_us/productpage.1138003003.html",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/6d/9f/6d9f618c534bcc7f895242c3fd608760afdc84cb.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+    }
+]
